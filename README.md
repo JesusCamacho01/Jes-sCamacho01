@@ -7,7 +7,7 @@
 </div>
 
 <!--Encabezado de presentación-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hola, mi nombre es Jesús Camacho! 
+#  Hola, mi nombre es Jesús Camacho! 
 *Estudiante de T.S.U. en informática (Developer / Programmer)*
 <br /> 
 
@@ -33,6 +33,33 @@
 
 <!--Sección de lenguajes y herramientas-->       
      
-<h2 align="center">Stack y Herramientas</h2> 
-<img align="left" width="45%" src="https://raw.githubusercontent.com/Kiran1689/kiran1689/main/Skills_Animation_White.gif" alt="Animación de habilidades" />
-<br />
+<h2 align="center">Stack y herramientas</h2> 
+<img align="left" width="50%" src="https://raw.githubusercontent.com/Kiran1689/kiran1689/main/Skills_Animation_White.gif" alt="Animación de habilidades" />
+
+### Frontend & UI
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/html5/default.svg" alt="HTML5" title="HTML5" width="50" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/css3/default.svg" alt="CSS3" title="CSS3" width="50" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/tailwind-css/default.svg" alt="Tailwind CSS" title="Tailwind CSS" width="50" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/javascript/default.svg" alt="JavaScript" title="JavaScript" width="50" height="50" />
+</p>
+
+### Backend
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/nodejs/wordmark.svg" alt="Node.js" title="Node.js" width="50" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/postgresql-badge/default.svg" alt="PostgreSQL" title="PostgreSQL" width="50" height="50" />
+</p>
+
+### Control de versiones y documentación
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/git/default.svg" alt="Git" title="Git" width="45" height="45" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/github/default.svg" alt="GitHub" title="GitHub" width="45" height="45" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/notion/default.svg" alt="Notion" title="Notion" width="45" height="45" />
+</p>
+
+<br clear="both"/>
+
+
