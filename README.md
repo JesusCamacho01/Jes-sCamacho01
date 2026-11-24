@@ -71,7 +71,7 @@
 |---|---|
 | **Problema que resuelve** | Digitaliza y optimiza la gestión administrativa, el control de inventario y el punto de venta (POS) de una pollera local. |
 | **Mi aporte** | Desarrollo de la arquitectura inicial del proyecto, estructura modular y diseño/maquetación de la mayoría de las vistas de usuario (Frontend/UI). |
-| **Tecnologías** | HTML · CSS · Tailwind CSS · JavaScript · Node.js · PostgreSQL |
+| **Tecnologías** | <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/html5/default.svg" alt="HTML5" title="HTML5" width="32" height="32" /> &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/css3/default.svg" alt="CSS3" title="CSS3" width="32" height="32" /> &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/tailwind-css/default.svg" alt="Tailwind CSS" title="Tailwind CSS" width="32" height="32" /> &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/javascript/default.svg" alt="JavaScript" title="JavaScript" width="32" height="32" /> &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/nodejs/default.svg" alt="Node.js" title="Node.js" width="32" height="32" /> &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/postgresql/default.svg" alt="PostgreSQL" title="PostgreSQL" width="32" height="32" /> |
 | **Repositorio** | [Ver repositorio](https://github.com/JesusCamacho01/Naguara_Proyect) |
 
 <br>
@@ -82,9 +82,8 @@
 |---|---|
 | **Problema que resuelve** | Centraliza las operaciones de recarga y distribución de agua potable, controlando inventario de botellones retornables, ventas, tasa cambiaria y contabilidad. |
 | **Mi aporte** | Prototipado completo UI/UX en Figma y estructuración funcional de las pantallas operativas y del módulo contable. |
-| **Tecnologías** | Figma · React · Tailwind CSS · Laravel · MySQL / PostgreSQL |
-| **Repositorios y Docs** | [Frontend](https://github.com/JesusCamacho01/H2Omanager) · [Backend](https://github.com/JesusCamacho01/api-h2o-manager) · [Prototipo Figma](https://www.figma.com/design/nlTWprmKeubz5lJlKaxo01/Prototipo-H2OManager?node-id=0-1&p=f&t=m62IrE82o4X7CjjO-0) · [Documentación](https://docs.google.com/document/d/1leRalyjhO8xi093IYxyOnxWyIvK1M08yp_zIUkPWuyc/edit?tab=t.0) · [Diagrama BD](https://dbdiagram.io/d/Proyecto-Contable-6993c4edbd82f5fce2e2d134) |
-
+| **Tecnologías** |  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/figma/default.svg" alt="Figma" title="Figma" width="32" height="32" /> &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/reactnative/default.svg" alt="React" title="React" width="32" height="32" /> &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/tailwind-css/default.svg" alt="Tailwind CSS" title="Tailwind CSS" width="32" height="32" /> &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/laravel/default.svg" alt="Laravel" title="Laravel" width="32" height="32" /> &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/mysql/mono.svg" alt="MySQL" title="MySQL" width="32" height="32" /> &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/postgresql/default.svg" alt="PostgreSQL" title="PostgreSQL" width="32" height="32" /> |
+| **Repositorios y Docs** | [Frontend](https://github.com/JesusCamacho01/H2Omanager) · [Backend](https://github.com/Dalpx/api-h2o-manager) · [Prototipo Figma](https://www.figma.com/design/nlTWprmKeubz5lJlKaxo01/Prototipo-H2OManager?node-id=0-1&p=f&t=m62IrE82o4X7CjjO-0) · [Documentación](https://docs.google.com/document/d/1leRalyjhO8xi093IYxyOnxWyIvK1M08yp_zIUkPWuyc/edit?tab=t.0) · [Diagrama BD](https://dbdiagram.io/d/Proyecto-Contable-6993c4edbd82f5fce2e2d134) |
 
 ---
 
@@ -93,27 +92,24 @@
 <div align="center">
 
   <a href="mailto:Camachofloresjesus120@gmail.com" title="Correo personal">
-    <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/gmail-2026/default.svg" alt="Gmail" width="50" height="50" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/gmail-2026/default.svg" alt="Gmail" width="40" height="40" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/jesus_camacho2023" target="_blank" title="Instagram">
-    <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/instagram/default.svg" alt="Instagram" width="50" height="50" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/instagram/default.svg" alt="Instagram" width="40" height="40" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/JesusCamacho01" target="_blank" title="GitHub">
-    <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/github/default.svg" alt="GitHub" width="50" height="50" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://wa.me/*584122665517" target="_blank" title="WhatsApp">
-    <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/whatsapp/default.svg" alt="WhatsApp" width="504" height="50" />
+    <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/github/default.svg" alt="GitHub" width="40" height="40" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://wa.me/584122665517" target="_blank" title="WhatsApp">
+    <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/whatsapp/default.svg" alt="WhatsApp" width="40" height="40" />
   </a>
 
-  <br><br>
-
+<p align="center">
   <sub>
     <strong>Correos:</strong>
     <a href="mailto:Camachofloresjesus120@gmail.com">Camachofloresjesus120@gmail.com</a> ·
     <a href="mailto:Vjal.camachofloresjesus120@iujo.edu.ve">Vjal.camachofloresjesus120@iujo.edu.ve</a>
   </sub>
-
   <br>
   <sub>Gracias por visitar mi perfil.</sub>
-
-</div>
+</p>
