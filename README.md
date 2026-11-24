@@ -8,7 +8,7 @@
 
 <!--Encabezado de presentación-->
 #  Hola, mi nombre es Jesús Camacho! 
-*Estudiante de T.S.U. en informática (Developer / Programmer)*
+*Estudiante de T.S.U. en informática*
 <br /> 
 
 <!--Inicio de introducción-->               
