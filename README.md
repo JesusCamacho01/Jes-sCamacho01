@@ -101,7 +101,7 @@
   <a href="https://github.com/JesusCamacho01" target="_blank" title="GitHub">
     <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/github/default.svg" alt="GitHub" width="50" height="50" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://wa.me/@jesusmc03" target="_blank" title="WhatsApp">
+  <a href="https://wa.me/*584122665517" target="_blank" title="WhatsApp">
     <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/whatsapp/default.svg" alt="WhatsApp" width="504" height="50" />
   </a>
 
